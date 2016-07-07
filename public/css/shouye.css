@@ -1983,6 +1983,7 @@ header .scroll-colse .a-2 p .b-2 {
 .foot .button {
   width: 90%;
   margin: 0 auto;
+  text-align:center;
 }
 .foot .button a {
   display: inline-block;
